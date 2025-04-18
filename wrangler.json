@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "white-paper-d317",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a13bdd51-b5d0-4702-a198-74e6347ba2e8",
+      "database_name": "morning-silence-ae86-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
